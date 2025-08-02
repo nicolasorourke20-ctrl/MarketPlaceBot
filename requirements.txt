@@ -1,0 +1,6 @@
+discord.py
+aiohttp
+beautifulsoup4~=4.13.4
+python-dotenv~=1.1.1
+
+playwright~=1.54.0
